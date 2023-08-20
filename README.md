@@ -34,7 +34,7 @@
 
 ### Logistic Regression Model (Oversampled data):
 
-#### Precision: 99% (an average--in predicting low-risk loans, the model was 99% precise, though the model was 99% precise in predicting high-risk loans)
+#### Precision: 100% (an average--in predicting low-risk loans, the model was 99% precise, though the model was 99% precise in predicting high-risk loans)
 
 #### Accuracy: 99%
 
